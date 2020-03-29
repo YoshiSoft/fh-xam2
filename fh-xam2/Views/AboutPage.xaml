@@ -61,7 +61,7 @@
                     <Label.FormattedText>
                         <FormattedString>
                             <FormattedString.Spans>
-                                <Span Text="FHtv is the best!!!" />
+                                <Span Text="FHtv is the best!!! Really!" />
                                 <Span Text=" " />
                                 <Span Text="iOS, Android, and Windows" FontAttributes="Bold" />
                                 <Span Text=" " />
